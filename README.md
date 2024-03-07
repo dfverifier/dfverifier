@@ -1,6 +1,6 @@
 Dear all,
 
-This is a description of our prototype tool, DFVerifer, which verifies the BIBO stability of Digital filters.
+This is a description of our prototype tool, DFVerifer, which verifies the BIBO stability of Digital filters. This tool is developed according to our paper "Poles-based Invariant Generation for Verifying the BIBO Stability of Digital Filters", published in HSCC 2024.
 
 #### Structure
 
