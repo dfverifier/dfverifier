@@ -1,0 +1,5 @@
+A = 1.5; -0.7
+B = 1.6
+input = [-1,1]
+init_outputs = 0;0
+output = [-16,16]

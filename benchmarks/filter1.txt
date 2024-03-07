@@ -1,0 +1,6 @@
+A = 0.999
+B = 1.0; -1.0
+input = [-1.0, 1.0]
+init_outputs = 0
+init_inputs = 0
+output = [-10000,10000]
